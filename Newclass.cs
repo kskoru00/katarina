@@ -7,7 +7,11 @@ namespace PIS1
 {
     class Newclass
     {
-        void Metoda()
-        { }
+
+        
+
+       void Nekapromjena()
+       {}
+
     }
 }
